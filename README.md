@@ -89,5 +89,19 @@ Currently learning and building projects
 ---
 
 <div align="center">
-  <img src="./plantas.png" width="700" alt="PLANTAS"/>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./plantas/plantas-branco.png"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./plantas/plantas-preto.png"
+    />
+    <img
+      src="./plantas/plantas.png"
+      width="700"
+      alt="Plantas"
+    />
+  </picture>
 </div>
