@@ -76,5 +76,5 @@ Currently learning and building projects
 ---
 
 <div align="center">
-<sub>Pantas</sub>
+  <img src="./plantas.png" width="700" alt="PLANTAS"/>
 </div>
