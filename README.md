@@ -29,9 +29,6 @@
 <a href="https://www.instagram.com/xgalisson/">
   <img src="https://img.shields.io/badge/Instagram-Follow-0d1117?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram"/>
 </a>
-<a href="https://archlinux.org/">
-  <img src="https://img.shields.io/badge/Arch_Linux-0d1117?style=flat-square&logo=archlinux&logoColor=1793D1" alt="Arch Linux"/>
-</a>
 
 </div>
 
