@@ -18,16 +18,19 @@
 <br/>
 
 <a href="https://github.com/Yukii-O">
-  <img src="https://img.shields.io/badge/GitHub-Yukii--O-0d1117?style=flat-square&logo=github&logoColor=a78bfa" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="42" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/in/alisson-de-andrade-assump%C3%A7%C3%A3o-604b9a35a/?isSelfProfile=true">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/alisson-de-andrade-assump%C3%A7%C3%A3o-604b9a35a/">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="42" alt="LinkedIn"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://discord.com/users/708779168078495855">
-  <img src="https://img.shields.io/badge/Discord-Contact-0d1117?style=flat-square&logo=discord&logoColor=5865F2" alt="Discord"/>
+  <img src="https://skillicons.dev/icons?i=discord&theme=dark" width="42" alt="Discord"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://www.instagram.com/xgalisson/">
-  <img src="https://img.shields.io/badge/Instagram-Follow-0d1117?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram"/>
+  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="42" alt="Instagram"/>
 </a>
 
 </div>
