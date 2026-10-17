@@ -21,6 +21,14 @@
   <img src="https://skillicons.dev/icons?i=github&theme=dark" width="42" alt="GitHub"/>
 </a>
 &nbsp;&nbsp;
+<a href="https://leetcode.com/yukii-o/" target="_blank">
+  <img
+    src="https://cdn.simpleicons.org/leetcode/FFA116"
+    width="42"
+    alt="LeetCode"
+  />
+</a>
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/alisson-de-andrade-assump%C3%A7%C3%A3o-604b9a35a/">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="42" alt="LinkedIn"/>
 </a>
