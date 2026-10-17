@@ -17,8 +17,21 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Yukii--0-0d1117?style=flat-square&logo=github&logoColor=a78bfa)](https://github.com/Yukii-0)
-[![Arch Linux](https://img.shields.io/badge/Arch_Linux-0d1117?style=flat-square&logo=archlinux&logoColor=1793d1)](https://archlinux.org/)
+<a href="https://github.com/Yukii-O">
+  <img src="https://img.shields.io/badge/GitHub-Yukii--O-0d1117?style=flat-square&logo=github&logoColor=a78bfa" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/alisson-de-andrade-assump%C3%A7%C3%A3o-604b9a35a/?isSelfProfile=true">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+</a>
+<a href="https://discord.com/users/708779168078495855">
+  <img src="https://img.shields.io/badge/Discord-Contact-0d1117?style=flat-square&logo=discord&logoColor=5865F2" alt="Discord"/>
+</a>
+<a href="https://www.instagram.com/xgalisson/">
+  <img src="https://img.shields.io/badge/Instagram-Follow-0d1117?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram"/>
+</a>
+<a href="https://archlinux.org/">
+  <img src="https://img.shields.io/badge/Arch_Linux-0d1117?style=flat-square&logo=archlinux&logoColor=1793D1" alt="Arch Linux"/>
+</a>
 
 </div>
 
