@@ -78,7 +78,6 @@ Currently learning and building projects
 
 </div>
 
-→ [See more](https://github.com/Yukii-0?tab=repositories)
 ## `OPEN SOURCE`
 <div>
   
