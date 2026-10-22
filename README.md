@@ -64,7 +64,7 @@ Currently learning and building projects
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,react,androidstudio,kafka,aws&theme=dark" alt="Tecnologias"/>
+<img src="https://skillicons.dev/icons?i=cpp,react,dart,flutter,androidstudio,kafka,aws&theme=dark" alt="Tecnologias"/>
 
 </div>
 
